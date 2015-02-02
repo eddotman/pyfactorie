@@ -1,6 +1,11 @@
 # pyfactorie
 Python wrapper for Factorie
 
+# Installation
+Use PyPI:
+
+    pip install pyfactorie
+
 # Usage
 First, have the [Factorie](htpp://factorie.cs.umass.edu) package installed. Run the nlp server (example run command below):
 
