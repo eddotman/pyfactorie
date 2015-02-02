@@ -1,2 +1,2 @@
-# factorie-py
+# pyfactorie
 Python wrapper for Factorie
