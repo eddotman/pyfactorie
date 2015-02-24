@@ -1,6 +1,6 @@
 # pyfactorie
-Python wrapper for Factorie
 [![Build Status](https://travis-ci.org/eddotman/pyfactorie.svg?branch=master)](https://travis-ci.org/eddotman/pyfactorie)
+Python wrapper for Factorie
 
 # Installation
 Use PyPI:
