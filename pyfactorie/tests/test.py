@@ -1,4 +1,4 @@
-from pyfactorie.pyfactorie import FactorieParser
+from pyfactorie.parsers import FactorieParser
 from os import environ
 from unittest import TestCase
 
